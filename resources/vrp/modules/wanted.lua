@@ -12,7 +12,6 @@ function vRP.wantedReturn(user_id)
 		else
 			userWanted[user_id] = nil
 		end
-	end
 
 	return false
 end
